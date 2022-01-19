@@ -1,0 +1,9 @@
+Manager,password,MANAGER,null
+name1,password,CUSTOMER,null
+name2,password,CUSTOMER,null
+name3,password,CUSTOMER,null
+name4,password,CUSTOMER,name4,40691
+UserName,password,CUSTOMER,null
+CoolDude,password,STAFF,null
+notSoCool,password1,STAFF,null
+dood,dood1,STAFF,null

@@ -1,0 +1,32 @@
+GENERAL XXXXX 3030 minutes dddd 12/12/20 xxxc [xxx, xxx, xx] Showings: 2021/10/28 10:45 [Bronze] 
+Seats Available: 150/150
+
+PARENTAL_GUIDANCE MovieName2 120 minutes "I'm a movie" 1999-05-18 Joel [James,  Matt] Showings: 2021/10/28 12:45 [Gold] 
+Seats Available: 150/150
+
+MATURE MovieName3 120 minutes "I'm a movie" 1999-05-18 Kang Yang [Kang Yang,   Bob] Showings: 2021/10/28 14:45 [Bronze] 
+Seats Available: 150/150
+
+MATURE_ACCOMPANIES MovieName4 120 minutes "I'm a movie" 1999-05-18 Ahmet [James,  Joel] Showings: 2021/10/28 10:45 [Bronze] 
+Seats Available: 150/150
+
+RESTRICTED MovieName5 120 minutes "I'm a movie" 1999-05-18 Frank [Ahmet,  Frank] Showings: 2021/10/28 10:45 [Silver] 
+Seats Available: 150/150
+
+GENERAL XXXXX 3030 minutes dddd 12/12/20 xxxc [xxx, xxx, xx] Showings: 2021/10/28 15:45 [Bronze] 
+Seats Available: 150/150
+
+PARENTAL_GUIDANCE MovieName2 120 minutes "I'm a movie" 1999-05-18 Joel [James,  Matt] Showings: 2021/10/28 23:45 [Gold] 
+Seats Available: 150/150
+
+RESTRICTED MovieName5 120 minutes "I'm a movie" 1999-05-18 Frank [Ahmet,  Frank] Showings: 2021/11/08 10:45 [Silver] 
+Seats Available: 150/150
+
+GENERAL XXXXX 3030 minutes dddd 12/12/20 xxxc [xxx, xxx, xx] Showings: 2021/11/09 15:45 [Bronze] 
+Seats Available: 150/150
+
+PARENTAL_GUIDANCE MovieName2 120 minutes "I'm a movie" 1999-05-18 Joel [James,  Matt] Showings: 2021/11/10 23:45 [Gold] 
+Seats Available: 150/150
+
+PARENTAL_GUIDANCE MovieName2 120 minutes "I'm a movie" 1999-05-18 Joel [James,  Matt] Showings: 2021/12/10 23:45 [Gold] 
+Seats Available: 150/150

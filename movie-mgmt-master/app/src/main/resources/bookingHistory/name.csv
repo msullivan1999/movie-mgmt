@@ -1,0 +1,26 @@
+Booking information
+Transaction ID: 443
+Movie         : XXXXX
+Cinema        : Cinema1
+Screening Time: 2021/10/28 15:45
+Screen Type   : Bronze
+Seats         : Front  - 1
+                Middle - 49
+                Back   - 0
+Tickets       : Child   - 0
+                Student - 0
+                Adult   - 0
+                Senior  - 0
+Booking information
+Transaction ID: 446
+Movie         : XXXXX
+Cinema        : Cinema1
+Screening Time: 2021/11/09 15:45
+Screen Type   : Bronze
+Seats         : Front  - 1
+                Middle - 0
+                Back   - 0
+Tickets       : Child   - 1
+                Student - 0
+                Adult   - 0
+                Senior  - 0

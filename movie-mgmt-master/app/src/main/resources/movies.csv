@@ -1,0 +1,5 @@
+1,GENERAL,MovieName1,54,"Im a movie",1999-04-21,Joel,Bob,Frank,Joe
+2,PARENTAL_GUIDANCE,MovieName2,120,"I'm a movie",1999-05-18,Joel,James, Matt
+3,MATURE,MovieName3,120,"I'm a movie",1999-05-18,Kang Yang,Kang Yang,  Bob
+4,MATURE_ACCOMPANIES,MovieName4,120,"I'm a movie",1999-05-18,Ahmet,James, Joel
+5,RESTRICTED,MovieName5,120,"I'm a movie",1999-05-18,Frank,Ahmet, Frank
